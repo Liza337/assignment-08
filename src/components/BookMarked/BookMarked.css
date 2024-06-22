@@ -1,0 +1,30 @@
+.read-time{
+
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    color: #6047EC;
+    width: 411px;
+    height: 50px;
+    text-align: center;
+    padding: 10px 5px;
+    
+}
+.bookmarked{
+    /* width: 411px;
+    height: 1352px; */
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    margin-top: 24px;
+}
+.bookmarked h3{
+    padding:25px 20px ;
+}
+
+.blog-title{
+    /* width: 351px; */
+    /* height: 98px; */
+    background-color: white;
+    margin: 20px 30px;
+    padding: 4px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 337,
+      "name": "Mr. Raju",
+      "title": "How to get your first job as a self-taught programmer",
+      "cover_img": "https://media.istockphoto.com/id/1356364268/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-keyboard-screens-show-coding.webp?s=612x612&w=is&k=20&c=T7Ab3GB_W4fXyIlVA2GGOP8umDdlh8ioVkS7cAYbR64=",
+      "author_img": "https://media.istockphoto.com/id/1421613320/photo/smiling-man-working-over-the-laptop-typing-on-the-keyboard-being-at-the-home-office.jpg?s=612x612&w=is&k=20&c=m7O1hg0uS1hy_e6I_PMjvdpPd7qbg_lQBj9ETmfwD6A=",
+      "publish_date": "May 14",
+      "read_time": 5
+    },
+    {
+      "id": 338,
+      "name": "Mr. Vicki",
+      "title": "Master Microsoft Power Platform and Become an In-Demand!",
+      "cover_img": "https://images.unsplash.com/photo-1560415755-bd80d06eda60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=991&q=80",
+      "author_img": "https://media.istockphoto.com/id/1396721868/photo/man-uses-laptop-to-video-conference-with-friends.jpg?s=612x612&w=is&k=20&c=j9aXuMcPu8uq8figeStgs95NUv_h9ohXOsKMby1mgmk=",
+      "publish_date": "July 24",
+      "read_time": 13
+    },
+    {
+      "id": 339,
+      "name": "Mrs Denis Richi",
+      "title": "Proud to be a web developer",
+      "cover_img": "https://images.unsplash.com/photo-1531741403586-c19915ad5d0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "author_img": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "publish_date": "June 4",
+      "read_time": 12
+    },
+    {
+      "id": 340,
+      "name": "Mrs Jubaika",
+      "title": "Student of undergrade and want to be a developer",
+      "cover_img": "https://images.unsplash.com/photo-1618335829737-2228915674e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "author_img": "https://media.istockphoto.com/id/1442792969/photo/business-woman-using-laptop-outdoors.jpg?s=612x612&w=is&k=20&c=Tog9-mdpKRGOWX3WG6BjFKDYkH3emfDNc4UCVKAamPA=",
+      "publish_date": "May 20",
+      "read_time": 10
+    }
+  ]

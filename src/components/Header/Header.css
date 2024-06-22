@@ -1,0 +1,27 @@
+.header {
+    background-color: bisque;
+    margin-top: 0;
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+}
+
+.nav-links a {
+    color: #535bf2;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.nav-links a:hover {
+    color: orange;
+}
+
+.header img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}

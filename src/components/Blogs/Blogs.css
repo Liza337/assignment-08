@@ -1,0 +1,13 @@
+.blogs-container{
+    margin-top: 32px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    
+}
+
+.cart-container{
+    margin: 50px;
+    display: grid;
+    grid-template-columns: repeat(1fr);
+
+}

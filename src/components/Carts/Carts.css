@@ -1,0 +1,43 @@
+.cover-img{
+    width: 600px;
+    height: 300px;
+    border-radius: 2px;
+}
+.cart{
+    width: 600px;
+    height: 580px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.class-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.author-info{
+    /* margin-top: 20px; */
+    display: flex;
+    gap: 20px;
+}
+.author-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+.author-name{
+    margin-top: 0px;
+}
+#name{
+     font-weight: 700;
+}
+
+.read-blog{
+    position: sticky;
+    top:0;
+}
+
+.title a{
+    background-color: bisque;
+}
