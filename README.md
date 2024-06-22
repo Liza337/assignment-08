@@ -1,6 +1,6 @@
 # Knowledge Cafe
 
-## Live SiteLink: halting-garden.surge.sh
+## Live SiteLink: http://halting-garden.surge.sh/
 
 ## Description
 - It is a single page react project
