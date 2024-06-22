@@ -1,6 +1,6 @@
 # Knowledge Cafe
 
-## Live SiteLink: http://halting-garden.surge.sh/ or https://joyful-basbousa-391f0e.netlify.app 
+## Live SiteLink:  https://joyful-basbousa-391f0e.netlify.app 
 
 ## Description
 - It is a single page react project
